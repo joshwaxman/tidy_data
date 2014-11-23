@@ -98,7 +98,7 @@ Our tidying ensured that each variable formed a column. The resulting tables loo
 
 
 |  subject  |         activity |  measure | computation | dimension |       value  |
-|---        |---               |--        |---          |---        |---           |
+|-----------|------------------|----------|-------------|-----------|--------------|
 |       1   |          LAYING  | tBodyAcc |        mean |       X   | 0.2215982    |
 |       1   |         SITTING  | tBodyAcc |        mean |       X   | 0.2612376    |
 |       1   |      STANDING    | tBodyAcc |        mean |       X   | 0.2789176    |
